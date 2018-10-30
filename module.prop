@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=WikipediaHosts
+name=Wikipedia Hosts
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=AnClark Liu
+description=Apply Wikipedia hosts into system to view Wikipedia, as admins there don't allow modifying Wikipedia with proxy.
 minMagisk=17000
